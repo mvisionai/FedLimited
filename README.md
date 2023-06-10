@@ -1,7 +1,7 @@
 # SFLEDS: Semi-supervised federated learning on evolving data streams
 Cobbinah B. Mawuli et al. 
 
-Published in Information Sciences Volume 643 [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025523008204)
+Published in Information Sciences Volume 643 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025523008204)
 
 Detail code implementation and experimental setting for FedLimited. For details, see the paper: SFLEDS: Semi-supervised federated learning on evolving data streams.
 
