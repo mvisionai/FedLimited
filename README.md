@@ -22,7 +22,7 @@ conda activate sfleds
 pip install -r requirements.txt
 ```
 
-Algorithm configuration.
+Code configuration.
 ```
 parser = argparse.ArgumentParser()
 parser.add_argument('--dataset', type=str, default='cr4', help="name of dataset")
@@ -36,14 +36,18 @@ parser.add_argument('--clustering', type=str, choices=["kmeans","dbscan"], defau
 help='Method for clustering')
 parser.add_argument('--decay_rate', type=float, default=0.000002, help='Number of dataset features')
 parser.add_argument('--weight_const', type=float, default=0.06, help='Weight threshold constant')
-parser.add_argument('--global_weight', type=float, default=0.50, help='Global Weight threshold constant, ignore')
+parser.add_argument('--global_weight', type=float, default=0.50, 
+help='Global Weight threshold constant, ignore')
 parser.add_argument('--local_init', type=int, default=50, help='Local initial cluster for single train')
 parser.add_argument('--data_part', type=str, default="iid",choices=["iid","non_iid"],
 help='simulate a non-iid and iid data partition')
 parser.add_argument('--global_init', type=int, default=50, help='global initial cluster for fed train')
-parser.add_argument('--reporting_interval', type=int, default=100, help='global initial cluster for fed train')
-parser.add_argument('--percent_init', type=float, default=0.01, help='set initial cluster number with percentage')
-parser.add_argument('--available_label', type=list, default=[0.10,0.15,0.20], help='set initial cluster number with percentage')
+parser.add_argument('--reporting_interval', type=int, default=100, 
+help='global initial cluster for fed train')
+parser.add_argument('--percent_init', type=float, default=0.01, 
+help='set initial cluster number with percentage')
+parser.add_argument('--available_label', type=list, default=[0.10,0.15,0.20],
+help='set initial cluster number with percentage')
 parser.add_argument('--run_type', choices=['fed','single','client'], default='fed',
 help='set initial cluster number with percentage')
 ```
