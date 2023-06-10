@@ -18,7 +18,8 @@ If you find this repository useful, please consider giving a star ⭐ and citati
 ```
 @article{mawuli2023semi,
   title={Semi-supervised Federated Learning on Evolving Data Streams},
-  author={Mawuli, Cobbinah B and Kumar, Jay and Nanor, Ebenezer and Fu, Shangxuan and Pan, Liangxu and Yang, Qinli and Zhang, Wei and Shao, Junming},
+  author={Mawuli, Cobbinah B and Kumar, Jay and Nanor, Ebenezer and Fu, Shangxuan and Pan, Liangxu and Yang,
+  Qinli and Zhang, Wei and Shao, Junming},
   journal={Information Sciences},
   pages={119235},
   year={2023},
