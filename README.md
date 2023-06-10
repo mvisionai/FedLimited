@@ -69,7 +69,7 @@ See [contributing](CONTRIBUTING.md).
 
 The SFLEDS Algorithm was made possible with the help of many contributors:
 
- Jay Kumar, Ebenezer  Nanor Shangxuan  Fu, Pan Liangxu, and Zhang Wei
+ Jay Kumar, Ebenezer  Nanor, Shangxuan  Fu, Pan Liangxu, and Zhang Wei
 
 # Citing SFLEDS
 If you find SFLEDS useful, please consider giving a star ⭐ and citation
