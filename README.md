@@ -13,6 +13,10 @@ Federated learning has attracted increasing attention in recent years, and many 
 
 ![SFLEDS Framework](https://github.com/mvisionai/FedLimited/blob/main/asset/Framework.png)
 
+## Contributing
+
+See [contributing](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md).
+
 # Citing SFLEDS
 If you find this repository useful, please consider giving a star ⭐ and citation
 ```
