@@ -15,7 +15,7 @@ Federated learning has attracted increasing attention in recent years, and many 
 
 ## Contributing
 
-See [contributing](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md).
+See [contributing](CONTRIBUTING.md).
 
 # Citing SFLEDS
 If you find this repository useful, please consider giving a star ⭐ and citation
