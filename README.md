@@ -53,7 +53,7 @@ help='set initial cluster number with percentage')
 ```
 
 ### Run
-The provided `fd_limited.py` can be run on  any computer provided the python depenct requirements are statisfied. Example datasets can be found in the dataset folder. Follow the paper to configure 
+The provided `fd_limited.py` can be run on  any computer provided the python dependencies  are statisfied. Example datasets can be found in the dataset folder. Follow the paper to configure 
 other parameter values for exploration. 
 ```
 python fd_limited.py --dataset cr4 --features 2
