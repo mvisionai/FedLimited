@@ -55,7 +55,7 @@ help='set initial cluster number with percentage')
 ### Run
 The provided `fd_limited.py` can be run on  any computer provided the python depenct requirements are statisfied.
 ```
-python fd_limited_v2.py --dataset cr4 --features 2
+python fd_limited.py --dataset cr4 --features 2
 ```
 
 ## Contributing
