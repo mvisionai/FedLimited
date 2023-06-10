@@ -3,7 +3,7 @@ Cobbinah B. Mawuli et al.
 
 Published in Information Sciences
 
-[[`Paper`](https://www.sciencedirect.com/science/article/abs/pii/S0020025523008204)] [[`Dataset`](https://moa.cms.waikato.ac.nz/datasets/)] 
+[[`Paper`](https://www.sciencedirect.com/science/article/abs/pii/S0020025523008204)] [[`Dataset 1`](https://moa.cms.waikato.ac.nz/datasets/)] [[`Dataset 2`](https://archive.ics.uci.edu/datasets)] 
 
 Detail code implementation and experimental setting for SFLEDS. For details, see the paper: SFLEDS: Semi-supervised federated learning on evolving data streams.
 
