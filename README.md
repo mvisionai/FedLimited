@@ -1,7 +1,9 @@
 # SFLEDS: Semi-supervised federated learning on evolving data streams
 Cobbinah B. Mawuli et al. 
 
-Published in Information Sciences Volume 643 [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S0020025523008204)
+Published in Information Sciences
+
+[[`Paper`](https://www.sciencedirect.com/science/article/abs/pii/S0020025523008204)] [[`Dataset`](https://moa.cms.waikato.ac.nz/datasets/)] 
 
 Detail code implementation and experimental setting for SFLEDS. For details, see the paper: SFLEDS: Semi-supervised federated learning on evolving data streams.
 
@@ -63,8 +65,14 @@ python fd_limited.py --dataset cr4 --features 2
 
 See [contributing](CONTRIBUTING.md).
 
+## Contributors
+
+The SFLEDS Algorithm was made possible with the help of many contributors:
+
+ Jay Kumar, Ebenezer  Nanor Shangxuan  Fu, Pan Liangxu, and Zhang Wei
+
 # Citing SFLEDS
-If you find this repository useful, please consider giving a star ⭐ and citation
+If you find SFLEDS useful, please consider giving a star ⭐ and citation
 ```
 @article{mawuli2023semi,
   title={Semi-supervised Federated Learning on Evolving Data Streams},
