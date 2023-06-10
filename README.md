@@ -34,7 +34,7 @@ parser.add_argument('--global_mc', type=int, default=1000, help='max global micr
 parser.add_argument('--features', type=int, default=2, help='Number of dataset features')
 parser.add_argument('--clustering', type=str, choices=["kmeans","dbscan"], default="kmeans",
 help='Method for clustering')
-parser.add_argument('--decay_rate', type=float, default=0.000002, help='Number of dataset features')
+parser.add_argument('--decay_rate', type=float, default=0.000002, help='Handles the forgetting rate of micro-clusters')
 parser.add_argument('--weight_const', type=float, default=0.06, help='Weight threshold constant')
 parser.add_argument('--global_weight', type=float, default=0.50, 
 help='Global Weight threshold constant, ignore')
