@@ -21,7 +21,7 @@ Install python dependencies.
 conda create --name sfleds python=3.8 -y
 conda activate sfleds
 
-pip install -r requirements.txt
+pip install -r requirement.txt
 ```
 
 Code configuration.
