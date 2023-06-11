@@ -13,7 +13,7 @@ Federated learning has attracted increasing attention in recent years, and many 
 
 
 
-![SFLEDS Framework](https://github.com/mvisionai/FedLimited/blob/main/asset/Framework.png)
+![SFLEDS Framework](asset/Framework.png)
 
 ## Usage
 Install python dependencies.
