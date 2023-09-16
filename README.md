@@ -51,7 +51,7 @@ help='set initial cluster number with percentage')
 parser.add_argument('--available_label', type=list, default=[0.10,0.15,0.20],
 help='set initial cluster number with percentage')
 parser.add_argument('--run_type', choices=['fed','single','client'], default='fed',
-help='set initial cluster number with percentage')
+help='algorithms')
 ```
 
 ### Run
